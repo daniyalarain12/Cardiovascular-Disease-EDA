@@ -1,4 +1,4 @@
-# 🫀 Cardiovascular Disease EDA — Exploratory Data Analysis
+# Cardiovascular Disease EDA — Exploratory Data Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2.x-150458?style=for-the-badge&logo=pandas&logoColor=white)
